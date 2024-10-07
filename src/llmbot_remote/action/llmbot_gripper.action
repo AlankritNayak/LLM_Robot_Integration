@@ -1,0 +1,10 @@
+# llmbot_gripper.action
+
+# Goal
+string gripper_state  # "Open" or "Close"
+---
+# Result
+bool success
+---
+# Feedback
+int64 percentage

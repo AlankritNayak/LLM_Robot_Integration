@@ -1,0 +1,24 @@
+# Goal
+float64 x
+float64 y
+float64 z
+float64 ox  # Orientation x
+float64 oy  # Orientation y
+float64 oz  # Orientation z
+float64 ow  # Orientation w
+
+---
+# Result
+bool success
+float64 final_x
+float64 final_y
+float64 final_z
+float64 final_ox  # Final Orientation x
+float64 final_oy  # Final Orientation y
+float64 final_oz  # Final Orientation z
+float64 final_ow  # Final Orientation w
+
+---
+# Feedback
+string state  # Feedback state, represented as a string (e.g., "Planning", "Executing")
+string message  # Optional human-readable message for more details

@@ -1,0 +1,4 @@
+# Service request has no inputs
+---
+# Service response is a string with scene description in JSON or any other format
+string scene_description
