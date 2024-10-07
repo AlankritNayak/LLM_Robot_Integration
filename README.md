@@ -1,6 +1,6 @@
-# Project Title
+# Using LLMs for End-User Friendly Robot Control
 
-This project is a part of my Master Thesis titled: Using LLMs for End-User Friendly Robot Control
+This project was developed during my Master Thesis. It demonstrates a way to integrate LLMs with a Robotic arm. It allows users to provide natural language instruction, then converts them into task plans and finally executes the task plans.
 
 ## Prerequisites
 
